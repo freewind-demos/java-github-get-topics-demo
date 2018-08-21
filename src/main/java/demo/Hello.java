@@ -14,7 +14,7 @@ public class Hello {
 
     public static void main(String[] args) throws IOException {
         Request request = new Request.Builder()
-                .url("https://api.github.com/repos/freewind/java-github-get-topics-demo/topics")
+                .url("https://api.github.com/repos/freewind-demos/java-github-get-topics-demo/topics")
                 .header("Accept", "application/vnd.github.mercy-preview+json")
                 .build();
 
