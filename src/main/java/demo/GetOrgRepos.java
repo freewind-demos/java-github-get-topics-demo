@@ -1,6 +1,5 @@
 package demo;
 
-
 import org.eclipse.egit.github.core.Repository;
 import org.eclipse.egit.github.core.service.RepositoryService;
 

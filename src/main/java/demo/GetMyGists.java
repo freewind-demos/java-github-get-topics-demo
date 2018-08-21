@@ -1,14 +1,10 @@
 package demo;
 
 
-import org.apache.commons.lang3.builder.ReflectionToStringBuilder;
-import org.apache.commons.lang3.builder.ToStringStyle;
 import org.eclipse.egit.github.core.Gist;
-import org.eclipse.egit.github.core.User;
 import org.eclipse.egit.github.core.client.GitHubClient;
 import org.eclipse.egit.github.core.client.PageIterator;
 import org.eclipse.egit.github.core.service.GistService;
-import org.eclipse.egit.github.core.service.UserService;
 
 import java.io.IOException;
 
